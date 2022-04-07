@@ -155,19 +155,19 @@ label.item.quantity=quantity
 
 **Project : thymeleaf-basic**
 
-![Spring-Thymeleaf-Internationalization1](/home/mwkang/Downloads/Spring-Thymeleaf-Internationalization1.gif)
+![Spring-Thymeleaf-Internationalization1](https://user-images.githubusercontent.com/79822924/162263147-81d6f772-63dd-45a1-bb7b-fa03cf416eb1.gif)
 
 
 
 **Project : form**
 
-![Spring-Thymeleaf-Internationalization2](/home/mwkang/Downloads/Spring-Thymeleaf-Internationalization2.gif)
+![Spring-Thymeleaf-Internationalization2](https://user-images.githubusercontent.com/79822924/162263176-74cb4f3e-25a6-4f56-a3ed-dc7d84896ec9.gif)
 
 
 
 **Project : message**
 
-![Spring-Thymeleaf-Internationalization3](/home/mwkang/Downloads/Spring-Thymeleaf-Internationalization3.gif)
+![Spring-Thymeleaf-Internationalization3](https://user-images.githubusercontent.com/79822924/162263208-e74576dd-34d8-4cd7-b60c-019efa065de9.gif)
 
 
 
@@ -177,3 +177,6 @@ label.item.quantity=quantity
 
 ## More Explanation
 
+[Spring-thymeleaf-basic-Note.md](https://github.com/mwkangit/Spring-Thymeleaf-Internationalization/blob/master/thymeleaf-basic/Spring-thymeleaf-basic-Note.md)
+[Spring-form-Note.md](https://github.com/mwkangit/Spring-Thymeleaf-Internationalization/blob/master/form/Spring-form-Note.md)
+[Spring-message-Note.md](https://github.com/mwkangit/Spring-Thymeleaf-Internationalization/blob/master/message/Spring-message-Note.md)
